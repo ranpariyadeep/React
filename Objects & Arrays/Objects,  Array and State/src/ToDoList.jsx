@@ -19,8 +19,8 @@ export default function ToDoList(){
   };
 
   return (
-    <div className="todo-container">
-  <h2>Todo List</h2>
+    <div className="card">
+  <h2 className="ludo-title">Todo List</h2>
 
   <div className="input-group">
     <input
